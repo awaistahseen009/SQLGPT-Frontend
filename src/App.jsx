@@ -14,7 +14,7 @@ const App = () => {
     setLoading(true);
     setError("");
     try {
-      const response = await fetch("https://huggingface.co/spaces/ujalaarshad17/SQLGPT/query", {
+      const response = await fetch("https://ujalaarshad17-sqlgpt.hf.space/query", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
