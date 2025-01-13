@@ -4,7 +4,7 @@ const Navbar = () => (
     <ul>
       <li>
         <a
-          href="https://huggingface.co/spaces/awais009/SQLGPT/tree/main"
+          href="https://huggingface.co/spaces/ujalaarshad17/SQLGPT/tree/main"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -13,7 +13,7 @@ const Navbar = () => (
       </li>
       <li>
         <a
-          href="https://github.com/awaistahseen009/SQLGPT"
+          href="https://github.com/ujalaarshad/SQLGPT"
           target="_blank"
           rel="noopener noreferrer"
         >
